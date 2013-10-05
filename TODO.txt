@@ -1,0 +1,11 @@
+* "Reverse" of the problem if finding k-th smallest element in a tree: I had to find k-th largest
+* Design the best way to search for words starting with a particular word in a dictionary
+* Was asked to write a program that would take a filename and a search pattern as arguments and return if the pattern matches the filename.
+    Wildcards * and ? can be used in the pattern.
+* JSON prettyfier
+
+* Given a list of 1M student’s test scores, where each line of a file contained a student id number and a
+    test score 0-1k write a program that would produce 3 files 1 for the top 30% 1 for the next lowest 20% and one for the bottom 50%.
+* Given 2 arrays A and B where the size of A is equivalent to the number of elements in A and B.
+    Arrays A and B are sorted where the extra memory contained in A is at the end.
+    Merge the two arrays in place in a single pass.
